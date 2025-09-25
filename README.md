@@ -11,3 +11,7 @@ Make sure your character isn't "busy" (fighting monsters etc) when you start the
 The meta will flag you, and turn in the KTs to the NPC when complete
 
 Avoid starting the meta if you are close to your luminance cap so you don't waste any luminance
+
+Client Control 
+
+The meta now supports starting the meta on all the other AC characters running on the same machine with the click of a button. When you start the meta, a Vtank Meta View with a "Start On All Clients" button will appear. Clicking the button will send the command to all of your other characters to start the meta.
