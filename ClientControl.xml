@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
-<view width="300" height="200" title="Test View">
+<view width="300" height="200" title="Client Control">
 <control type="layout">
 <control type="button" name="btnStartAllClients" left="90" top="10" width="120" height="40" text="Start On All Clients" actionexpr="chatbox[\/ub bct AllOthers \/vt meta load Ursuins_Wooty] +chatbox[\/ub bc \/vt start] +chatbox[\/ub bc \/vt opt set EnableMeta True]" />
 </control>
 </view>
+
